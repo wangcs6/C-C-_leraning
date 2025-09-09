@@ -1,0 +1,3 @@
+D:/CRSC/study/C++_learn/out/build/GCC15.2/CMakeFiles/test.dir
+D:/CRSC/study/C++_learn/out/build/GCC15.2/CMakeFiles/edit_cache.dir
+D:/CRSC/study/C++_learn/out/build/GCC15.2/CMakeFiles/rebuild_cache.dir

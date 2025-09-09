@@ -1,0 +1,3 @@
+D:/CRSC/study/C++_learn/build/CMakeFiles/test.dir
+D:/CRSC/study/C++_learn/build/CMakeFiles/edit_cache.dir
+D:/CRSC/study/C++_learn/build/CMakeFiles/rebuild_cache.dir

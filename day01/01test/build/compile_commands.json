@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/CRSC/study/C++_learn/build",
+  "command": "C:\\vscode_C++_Configuration\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\test.dir\\main.c.obj -c D:\\CRSC\\study\\C++_learn\\main.c",
+  "file": "D:/CRSC/study/C++_learn/main.c",
+  "output": "D:/CRSC/study/C++_learn/build/CMakeFiles/test.dir/main.c.obj"
+}
+]
